@@ -1,4 +1,4 @@
-print("class is happeming")
+print("class is happening")
 print("announcement for blood donation")
 interested="yes"
 if interested=="yes":
